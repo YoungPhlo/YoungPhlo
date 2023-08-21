@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on datasets
 - 🤔 I’m looking for help with GPU clusters
 - 💬 Ask me about my music
-- 📫 How to reach me: https://twitter.com/YoungPhlo_
+- 📫 How to reach me: [Twitter](https://twitter.com/YoungPhlo_)
 - ⚡ Fun fact: ffmpeg is my favorite tool right now
 
 <!--
