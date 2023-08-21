@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 I’m @YoungPhlo
+- 🌊 I’m @YoungPhlo
 - 🔭 I’m currently working on large language models
 - 🌱 I’m currently learning model finetuning
 - 👯 I’m looking to collaborate on datasets
